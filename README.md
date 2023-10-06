@@ -62,7 +62,7 @@ In this analysis, we employed a pie chart to provide a clear visual representati
 - The pie chart reveals a striking gender imbalance in suicide rates. Males account for a substantial majority, representing approximately 76.5% of the total suicides.
 - Conversely, females constitute a smaller portion of the total suicides, accounting for approximately 23.5%. This percentage is notably lower compared to males.
 Gender Disparity: Threefold Difference:
-#### A key observation is that males have approximately three times the number of suicides compared to females. This significant gender disparity underscores the need for gender-specific approaches in suicide prevention efforts.
+A key observation is that males have approximately three times the number of suicides compared to females. This significant gender disparity underscores the need for gender-specific approaches in suicide prevention efforts.
 
 ### Analysis of Total Suicides per 100k Population by Gender (1990 vs. 2019):
 In this analysis, we employed a bar graph to examine the total suicides per 100k population for males and females in both 1990 and 2019. This visual comparison allows us to identify gender-specific trends in suicide rates over the two decades.
@@ -74,7 +74,13 @@ In 2019, there has been a notable increase in suicide rates for both genders.
 - For males in 2019, the suicide rate has risen to almost 8000 per 100k population, signifying a considerable surge in suicides among males over the years.
 - For females in 2019, the suicide rate has also increased, exceeding 3000 per 100k population, which is significantly higher compared to 1990.
 
+### Analysis of GDP per Capita vs. Suicides per 100k Population
+This scatter plot examines the relationship between GDP per capita and suicide rates across about 40 countries. The goal is to identify trends and patterns in this relationship.
+- Rising Suicide Rates with GDP Increase: Suicide rates tend to increase as GDP per capita rises from 20,000 to 45,000, indicating potential socioeconomic pressures.
+- Stable Rates Beyond 45,000: Beyond a GDP per capita of approximately 45,000 to 50,000, suicide rates stabilize around 50 per 100k population.
+- Outliers at High Income Levels: Some countries with high GDP per capita exhibit unexpectedly high suicide rates, emphasizing the role of non-economic factors.
 
+While there's a general trend of increasing suicide rates with rising GDP per capita up to a point, this relationship is complex. Mental health support systems, cultural attitudes, and other factors also influence suicide rates.
 
 ## References
  - Dataset for [suicide_rates_1985 2021](https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021)
