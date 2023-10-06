@@ -58,11 +58,11 @@ In the second graph, which represents suicides per 100,000 population in each ag
 
 ### Analysis of Total Suicides by Gender:
 In this analysis, we employed a pie chart to provide a clear visual representation of the distribution of total suicides by gender. This examination allows for a straightforward comparison of suicide counts between males and females.
-####Men significantly outnumber women in suicide cases:
+#### Men significantly outnumber women in suicide cases:
 - The pie chart reveals a striking gender imbalance in suicide rates. Males account for a substantial majority, representing approximately 76.5% of the total suicides.
 - Conversely, females constitute a smaller portion of the total suicides, accounting for approximately 23.5%. This percentage is notably lower compared to males.
 Gender Disparity: Threefold Difference:
-####A key observation is that males have approximately three times the number of suicides compared to females. This significant gender disparity underscores the need for gender-specific approaches in suicide prevention efforts.
+#### A key observation is that males have approximately three times the number of suicides compared to females. This significant gender disparity underscores the need for gender-specific approaches in suicide prevention efforts.
 
 ### Analysis of Total Suicides per 100k Population by Gender (1990 vs. 2019):
 In this analysis, we employed a bar graph to examine the total suicides per 100k population for males and females in both 1990 and 2019. This visual comparison allows us to identify gender-specific trends in suicide rates over the two decades.
@@ -73,6 +73,8 @@ In this analysis, we employed a bar graph to examine the total suicides per 100k
 In 2019, there has been a notable increase in suicide rates for both genders.
 - For males in 2019, the suicide rate has risen to almost 8000 per 100k population, signifying a considerable surge in suicides among males over the years.
 - For females in 2019, the suicide rate has also increased, exceeding 3000 per 100k population, which is significantly higher compared to 1990.
+
+
 
 ## References
  - Dataset for [suicide_rates_1985 2021](https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021)
