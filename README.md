@@ -75,6 +75,6 @@ In 2019, there has been a notable increase in suicide rates for both genders.
 - For females in 2019, the suicide rate has also increased, exceeding 3000 per 100k population, which is significantly higher compared to 1990.
 
 ## References
-Dataset for [suicide_rates_1985 2021](https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021)
-Dataset for [Government expenditures on mental health as a percentage of total government expenditures on health (%)](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/government-expenditures-on-mental-health-as-a-percentage-of-total-government-expenditures-on-health-(-))
+ - Dataset for [suicide_rates_1985 2021](https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021)
+ - Dataset for [Government expenditures on mental health as a percentage of total government expenditures on health (%)](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/government-expenditures-on-mental-health-as-a-percentage-of-total-government-expenditures-on-health-(-))
 
