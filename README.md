@@ -84,12 +84,12 @@ A key observation is that males have approximately three times the number of sui
 ### Analysis of Total Suicides per 100k Population by Gender (1990 vs. 2019):
 In this analysis, we employed a bar graph to examine the total suicides per 100k population for males and females in both 1990 and 2019. This visual comparison allows us to identify gender-specific trends in suicide rates over the two decades.
 #### Suicide Rates in 1990 (per 100k population):
-- For males in 1990, the suicide rate was a little over 2000, indicating a significant number of suicides in this gender group.
-- For females in 1990, the suicide rate was approximately 1600, reflecting a substantial but relatively lower number of suicides compared to males.
+- For males in 1990, the suicide rate has risen to almost 8000 per 100k population, signifying a considerable surge in suicides among males during that year..
+- For females in 1990, the suicide rate was a little over 2000, reflecting a substantial but relatively lower number of suicides compared to males.
 #### Suicide Rates in 2019 (per 100k population):
-In 2019, there has been a notable increase in suicide rates for both genders.
-- For males in 2019, the suicide rate has risen to almost 8000 per 100k population, signifying a considerable surge in suicides among males over the years.
-- For females in 2019, the suicide rate has also increased, exceeding 3000 per 100k population, which is significantly higher compared to 1990.
+In 2019, there has been a notable decrease in suicide rates for both genders.
+- For males in 2019, the suicide rate has fallen to a bit over 3000 per 100k population, which is significantly lower compared to 1990.
+- For females in 2019, the suicide rate has also decreased, falling to under 2000 per 100k population.
 
 ![5](Output_Files/suicides_by_gender_per_100K_1990_vs_2019.png)
 
