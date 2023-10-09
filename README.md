@@ -104,7 +104,14 @@ This scatter plot examines the relationship between GDP per capita and suicide r
 While there's a general trend of increasing suicide rates with rising GDP per capita up to a point, this relationship is complex. Mental health support systems, cultural attitudes, and other factors also influence suicide rates.
 
 ### Analysis of the relationship between the Percentage of Government Expenditure and Suicide Rates per 100k Population for the year 2011:
+This scatter plot examines the relationship between percentage of government expenditure and suicide rates across about 40 countries. The goal is to identify trends and patterns in this relationship.
 
+![7](Output_Files/suicides_per_100K_vs_Government_Expenditure.png)
+
+- Rising Suicide Rates with increase in government expenditure: The positive slope coefficient indicates a positive relationship between government expenditure and suicides per 100k population.
+- In other words, as government expenditure increases, the estimated suicide rate tends to increase. This indicates that there are other factors, such as social, economic, or demographic factors, that influence both government expenditure and suicide rates.
+
+  
 ## References
  - Dataset for [suicide_rates_1985 2021](https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021)
  - Dataset for [Government expenditures on mental health as a percentage of total government expenditures on health (%)](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/government-expenditures-on-mental-health-as-a-percentage-of-total-government-expenditures-on-health-(-))
