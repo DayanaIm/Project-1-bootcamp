@@ -36,7 +36,7 @@ This research project seeks to comprehensively investigate suicide rates and the
 Before you begin, ensure you have the following installed:
 - Python 3.x
 - Jupyter Notebook
-- Required Python packages (NumPy, Pandas, Matplotlib, Pathlib,scipy)
+- Required Python packages (NumPy, Pandas, Matplotlib, Pathlib, Scipy)
 
 ## Installing
 
